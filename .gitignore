@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+.history
+eslint.config.js
 
 # Editor directories and files
 .vscode/*
